@@ -1,0 +1,74 @@
+[
+	{
+		"id": "jh_mathematics",
+		"img": "jh_mathematics.png",
+		"name": "ザックリ中学数学",
+		"date": "2022/11/06~",
+		"tags": ["中学", "数学"],
+		"open": true
+	},
+	{
+		"id": "jh_economy",
+		"img": "jh_economy.avif",
+		"name": "中学生に学んで欲しい経済入門",
+		"date": "2023/1/12~",
+		"tags": ["中学", "経済学"],
+		"open": true
+	},
+	{
+		"id": "momotarou",
+		"img": "momotarou.png",
+		"name": "桃太郎",
+		"date": "2024/4/1~",
+		"tags": ["童話", "Books"],
+		"open": true
+	},
+	{
+		"id": "failure_programming",
+		"img": "failure_programming.png",
+		"name": "何度も挫折するプログラミング",
+		"date": "制作中",
+		"tags": ["プログラミング"],
+		"open": false
+	},
+	{
+		"id": "giveup_English",
+		"img": "giveup_English.png",
+		"name": "ギブアップ英語",
+		"date": "制作中",
+		"tags": ["英語"],
+		"open": false
+	},
+	{
+		"id": "finding_scholarship",
+		"img": "finding_scholarship.png",
+		"name": "やりたいことの見つけ方：学問編",
+		"date": "制作中",
+		"tags": ["将来"],
+		"open": false
+	},
+	{
+		"id": "finding_job",
+		"img": "finding_job.png",
+		"name": "やりたいことの見つけ方：職業編",
+		"date": "制作中",
+		"tags": ["将来"],
+		"open": false
+	},
+	{
+		"id": "note_taking",
+		"img": "note_taking.png",
+		"name": "ノートの取り方",
+		"date": "制作中",
+		"tags": ["勉強", "ビジネス"],
+		"open": false
+	},
+	{
+		"id": "business_tips",
+		"img": "business_tips.png",
+		"name": "アルバイト初心者の心得",
+		"date": "制作中",
+		"tags": ["ビジネス"],
+		"open": false
+	}
+]
