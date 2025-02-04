@@ -1,0 +1,23 @@
+{
+	"title": "中学生に学んでほしい経済入門",
+	"thumbnail": "jh_economy.avif",
+	"index": [
+		{
+			"part": "プロローグ",
+			"chapter": [
+				{ "title": "そもそも「経済」って何？", "href": "01" },
+				{ "title": "ざっくり国富論", "href": "02" },
+				{ "title": "経済 vs 道徳", "href": "03" }
+			]
+		},
+		{
+			"part": "経済基礎",
+			"chapter": [
+				{ "title": "需要と供給", "href": "04" },
+				{ "title": "分業と分配", "href": "05" },
+				{ "title": "経済から見た教育と勉強", "href": "#" },
+				{ "title": "経済とブラック企業の関係", "href": "#" }
+			]
+		}
+	]
+}

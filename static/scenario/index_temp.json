@@ -1,0 +1,13 @@
+{
+	"title": "中学生に学んでほしい経済入門",
+	"thumbnail": "jh_mathematics.png",
+	"index": [
+		{
+			"part": "プロローグ",
+			"chapter": [
+				{ "title": "オリエンテーション", "href": "01" },
+				{ "title": "中学数学のゴール", "href": "02" }
+			]
+		}
+	]
+}

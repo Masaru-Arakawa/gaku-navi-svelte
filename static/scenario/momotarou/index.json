@@ -1,0 +1,31 @@
+{
+	"title": "中学生に学んでほしい経済入門",
+	"thumbnail": "momotarou.png",
+	"index": [
+		{
+			"part": "はじめに",
+			"chapter": [
+				{ "title": "オリジナルの桃太郎", "href": "01/picture_book" },
+				{ "title": "ガイダンス", "href": "#" }
+			]
+		},
+		{
+			"part": "アナザーストーリー1: 桃と太郎",
+			"chapter": [
+				{ "title": "序章", "href": "#" },
+				{ "title": "第1章", "href": "#" },
+				{ "title": "第2章", "href": "#" },
+				{ "title": "第3章", "href": "#" }
+			]
+		},
+		{
+			"part": "アナザーストーリー2: 鬼財派遣会社",
+			"chapter": [
+				{ "title": "序章", "href": "#" },
+				{ "title": "第1章", "href": "#" },
+				{ "title": "第2章", "href": "#" },
+				{ "title": "第3章", "href": "#" }
+			]
+		}
+	]
+}

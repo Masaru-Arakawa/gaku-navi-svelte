@@ -1,0 +1,70 @@
+[
+	{
+		"text": "素数はどれでしょう？",
+		"choice": [
+			{ "text": "6", "diabled": false, "class": "" },
+			{ "text": "7", "diabled": false, "class": "" },
+			{ "text": "8", "diabled": false, "class": "" },
+			{ "text": "9", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "この中で、素数は7だけですよ\n・6の約数は、1,2,3,6の4つ\n・7の約数は、1,7の2つだけ\n・8の約数は、1,2,4,8の4つ\n・9の約数は、1,3,9の3つ",
+		"isShow": false
+	},
+	{
+		"text": "素数はどれでしょう？",
+		"choice": [
+			{ "text": "12", "diabled": false, "class": "" },
+			{ "text": "13", "diabled": false, "class": "" },
+			{ "text": "14", "diabled": false, "class": "" },
+			{ "text": "15", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "この中で、素数は13だけですよ\n・12の約数は、1,2,3,4,6の4つ\n・13の約数は、1,13の2つだけ\n・14の約数は、1,2,7,14の4つ\n・15の約数は、1,3,5,15の4つ",
+		"isShow": false
+	},
+	{
+		"text": "57は素数でしょうか？",
+		"choice": [
+			{ "text": "YES,素数である", "diabled": false, "class": "" },
+
+			{ "text": "NO,素数ではない", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "57の約数は,1,3,19,57の4つです\n素数とは「約数が2つだけの数字」のことなので、57は素数ではありません",
+		"isShow": false
+	},
+	{
+		"text": "12を素因数分解してください",
+		"choice": [
+			{ "text": "12 = 2 × 6", "diabled": false, "class": "" },
+			{ "text": "12 = 4 × 3", "diabled": false, "class": "" },
+			{ "text": "12 = 2 × 2 × 3", "diabled": false, "class": "" }
+		],
+		"answer_index": 2,
+		"comment": "素因数分解とは「素数だけの掛け算」の形になるまで分解することです\n4や6は素数ではないので、もっと分解できますね",
+		"isShow": false
+	},
+	{
+		"text": "90を素因数分解してください",
+		"choice": [
+			{ "text": "90 = 9 × 10", "diabled": false, "class": "" },
+			{ "text": "90 = 2 × 5 × 9", "diabled": false, "class": "" },
+			{ "text": "90 = 2 × 3 × 3 × 5", "diabled": false, "class": "" }
+		],
+		"answer_index": 2,
+		"comment": "素因数分解とは「素数だけの掛け算」の形になるまで分解することです\n9や10は素数ではないので、もっと分解できますね",
+		"isShow": false
+	},
+	{
+		"text": "243を素因数分解してください",
+		"choice": [
+			{ "text": "243 = 243", "diabled": false, "class": "" },
+			{ "text": "243 = 13 × 11", "diabled": false, "class": "" },
+			{ "text": "243 = 3 × 3 × 3 × 3 × 3", "diabled": false, "class": "" }
+		],
+		"answer_index": 2,
+		"comment": "正解が分かってからだと答えは簡単なのですが、数字が大きくなると「素数で分解する」というのが途端に難しくなることが分かるでしょう？\n243は「81×3」なので、「9×9×3」→「3×3×3×3×3」と分解していくことができます",
+		"isShow": false
+	}
+]

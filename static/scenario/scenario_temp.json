@@ -1,0 +1,41 @@
+{
+	"chapter": "タイトル",
+	"page": [
+		{
+			"title": "初めから",
+			"message": [
+				{
+					"slide": "01-0.png",
+					"slide2": "",
+					"animation": "fuwa",
+					"actor": "ハルミナ",
+					"actorImg": "Harumina.png",
+					"text": "ここをクリックしてね♪",
+					"voice": ""
+				},
+				{
+					"slide": "01-0.png",
+					"slide2": "",
+					"animation": "slide-left",
+					"actor": "ハルミナ",
+					"actorImg": "Harumina.png",
+					"text": "皆さん、こんにちは\n学習ナビゲーターのハルミナです",
+					"voice": "001_皆さん、こんにちは.mp3"
+				}
+			]
+		},
+		{
+			"title": "",
+			"message": [
+				{
+					"slide": "01-0.png",
+					"actor": "ハルミナ",
+					"actorImg": "Harumina.png",
+					"text": "",
+					"voice": ""
+				}
+			]
+		}
+	],
+	"training": false
+}

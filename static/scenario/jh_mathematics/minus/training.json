@@ -1,0 +1,108 @@
+[
+	{
+		"text": "8+(-5)=?",
+		"choice": [
+			{ "text": "13", "diabled": false, "class": "" },
+			{ "text": "-13", "diabled": false, "class": "" },
+			{ "text": "3", "diabled": false, "class": "" },
+			{ "text": "-3", "diabled": false, "class": "" }
+		],
+		"answer_index": 2,
+		"comment": "(-5)を(+5)に直すと、足し算が引き算に変わって、「8-5=3」に変わります",
+		"isShow": false
+	},
+	{
+		"text": "6-(-2)=?",
+		"choice": [
+			{ "text": "8", "diabled": false, "class": "" },
+			{ "text": "-8", "diabled": false, "class": "" },
+			{ "text": "4", "diabled": false, "class": "" },
+			{ "text": "-4", "diabled": false, "class": "" }
+		],
+		"answer_index": 0,
+		"comment": "(-2)を(+2)に直すと、足し算が引き算に変わって、「6+2=8」に変わります",
+		"isShow": false
+	},
+	{
+		"text": "5+(-2)-(-3)=?",
+		"choice": [
+			{ "text": "4", "diabled": false, "class": "" },
+			{ "text": "6", "diabled": false, "class": "" },
+			{ "text": "10", "diabled": false, "class": "" },
+			{ "text": "0", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "(-2)を(+2)に直すと引き算に変わり、(-3)を(+3)に直すと足し算に変わり、「5-2+3=6」に変わります",
+		"isShow": false
+	},
+	{
+		"text": "8x(-4)=?",
+		"choice": [
+			{ "text": "32", "diabled": false, "class": "" },
+			{ "text": "-32", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "計算式にマイナスの数は(-4)の1つなので、答えのプラスマイナスが1回逆転して、マイナスになります",
+		"isShow": false
+	},
+	{
+		"text": "(-7)x(-9)=?",
+		"choice": [
+			{ "text": "63", "diabled": false, "class": "" },
+			{ "text": "-63", "diabled": false, "class": "" }
+		],
+		"answer_index": 0,
+		"comment": "計算式にマイナスの数は(-7)と(-4)の2つなので、答えのプラスマイナスが2回逆転して、プラスに戻ります",
+		"isShow": false
+	},
+	{
+		"text": "(-2)x(-3)x(-4)=?",
+		"choice": [
+			{ "text": "24", "diabled": false, "class": "" },
+			{ "text": "-24", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "計算式にマイナスの数は3つなので、答えのプラスマイナスが3回逆転して、最終的にマイナスになります",
+		"isShow": false
+	},
+	{
+		"text": "12÷(-3)=?",
+		"choice": [
+			{ "text": "4", "diabled": false, "class": "" },
+			{ "text": "-4", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "計算式にマイナスの数は1つなので、答えのプラスマイナスが1回逆転して、最終的にマイナスになります",
+		"isShow": false
+	},
+	{
+		"text": "(-24)÷4=?",
+		"choice": [
+			{ "text": "6", "diabled": false, "class": "" },
+			{ "text": "-6", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "計算式にマイナスの数は1つなので、答えのプラスマイナスが1回逆転して、最終的にマイナスになります",
+		"isShow": false
+	},
+	{
+		"text": "(-56)÷(-7)=?",
+		"choice": [
+			{ "text": "8", "diabled": false, "class": "" },
+			{ "text": "-8", "diabled": false, "class": "" }
+		],
+		"answer_index": 0,
+		"comment": "計算式にマイナスの数は2つなので、答えのプラスマイナスが2回逆転して、最終的にプラスに戻ります",
+		"isShow": false
+	},
+	{
+		"text": "(-24)÷(-4)÷(-3)=?",
+		"choice": [
+			{ "text": "2", "diabled": false, "class": "" },
+			{ "text": "-2", "diabled": false, "class": "" }
+		],
+		"answer_index": 1,
+		"comment": "計算式にマイナスの数は3つなので、答えのプラスマイナスが3回逆転して、最終的にマイナスになります\n順番に計算していくと、\n・まず、(-24)÷(-4)=6 になり、\n・それから、6÷(-3)=(-2) となって、\n最終的に、正解は(-2)となります",
+		"isShow": false
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"text": "8+(-5)=?",
+		"choice": [
+			{ "text": "13", "diabled": false, "class": "" },
+			{ "text": "-13", "diabled": false, "class": "" },
+			{ "text": "3", "diabled": false, "class": "" },
+			{ "text": "-3", "diabled": false, "class": "" }
+		],
+		"answer_index": 2,
+		"comment": "(-5)を(+5)に直すと、足し算が引き算に変わって、「8-5=3」に変わります",
+		"isShow": false
+	}
+]
